@@ -1,9 +1,11 @@
 <<<<<<< HEAD
 Create ENV :
 
-[GOOGLE_SERVICE_ACCOUNT_JSON=, 
+[GOOGLE_SERVICE_ACCOUNT_JSON=,
 MODEL_URL=, 
-JWT_SECRET=]
+FOOD_MODEL_URL=, 
+JWT_SECRET=
+]
 =======
 # Capstone
 Auth.Predict food
